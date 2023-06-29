@@ -12,8 +12,6 @@ body {
 }
 
 .square {
-    width: calc(25% - 10px);
-    height: calc(25% - 10px);
     box-sizing: border-box;
 }
 
