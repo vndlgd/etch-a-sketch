@@ -1,6 +1,5 @@
 function createGrid(number) {
     // set border when we create Grid to show users where to sketch
-    const boxSize = 960 / userInput;
     document.getElementById("grid").style.border = "4px solid black";
 
     // create 16x16 grid of squares
