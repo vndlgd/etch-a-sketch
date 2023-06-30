@@ -1,5 +1,8 @@
 # Etch-a-Sketch Project
 
+## Live Demo
+You can try out the live demo of the game [here](https://vndlgd.github.io/etch-a-sketch/).
+
 ## Overview
 This project is a part of the curriculum provided by [The Odin Project](https://www.theodinproject.com/). The Etch-a-Sketch project aims to create a browser version of something between a sketchpad and an Etch-A-Sketch.
 
